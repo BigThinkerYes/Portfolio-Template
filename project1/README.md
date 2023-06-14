@@ -1,6 +1,6 @@
 ## Project #1
 Give a high-level overview of the project purpose
-note: refere to ReadMe inside ada2.0 for a complete build process of the application.
+- note: refere to ReadMe inside ada2.0 for a complete build process of the application.
 - (*Situation*) This application was built to test Endpoints using Nodejs, Express and Postman and was created to gain knowledge about api endpoints using JWT
 - (*Task*) The overall structure of the application was designed around test cases that allows a user to add notes to a log which then is stored within a database using sqlite3.
 - (*Action*) I was tasked with creating base files and database as well as help with the api testing
