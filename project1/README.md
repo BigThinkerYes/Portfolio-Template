@@ -1,5 +1,5 @@
 ## Project #1
-Give a high-level overview of the project purpose -- this project was built to 
+Give a high-level overview of the project purpose -- this project was built to gain knowledge of endpoints using Nodejs
 - note: 
 ## refer to ReadMe inside ada2.0 for a complete build process of the application.
 - (*Situation*) This application was built to test Endpoints using Nodejs, Express and Postman and was created to gain knowledge about api endpoints using JWT
