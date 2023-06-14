@@ -28,11 +28,11 @@ create .env file for jwt secret
 -- install postman is the first step
 https://www.postman.com/
 
--- next step
+- next step
 In package.json file if not added add to scripts ----> "start-dev": nodemon server.js"
 To run nodemon ---> npm run start-dev
 
--- when sever is running open postman
+- when sever is running open postman
 - choose workspaces from the top then create workspace
 - you now access to the GET, POST, PUT, DELETE
 - to test endpoints use the api (https://localhost:3000/adas_journal/)
