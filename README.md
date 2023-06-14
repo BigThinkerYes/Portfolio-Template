@@ -1,16 +1,33 @@
 # Final Portfolio
 
 This repository is a collection of some of my key learnings during my time with the Multiverse apprenticeship program at Verizon.
+## The complete in depth detail of each project can be found in project1 and project2 folders
 ## Competencies:
-- JF 6.3 Able to communicate software solutions and ideas to technical and non-technical stakeholders
-  + With projects I am able to relate the technical specification in way that it is easy to understand by relating it
-  + to common everyday tasks 
-- JF 2.2 Can identify relevant and up-to-date software designs and how to read and implement functional/technical specifications
-  + Using latest features such as styled components in project 2 which gives more power to the styling 
-- JF 4.2 Acts with integrity with respect to ethical, legal and regulatory ensuring the protection of personal data, safety and security.
-  + By using JWT I was able to make it so routes are protected for the create, update, read, and delete.
-- JS 4.3 Is able to build, manage and deploy code into the relevant environment
-  + delpoyment I worked with CICD and Docker to help keep a fluid workflow
+# Ada2.0
+- JF 3.6
+- Can implement a RESTful API
+- one way this was demonstrated this poject was with | router.get("/:id", async (req, res, next) => { | which gets all messages based on there id
+- Some actions taken in this project came from testing the seedData file against api route to see if it pulled correct data
+- This project was built with a team of 3 and we each learned how to communicate well while be in different circumstances that could have delayed the testing
+- The end goal of this project was to work together and have a funtional server application which went well.
+- JF 5.4
+- Understands and is able to identify and create test scenarios
+-There were several test scenarios where we need to test the vaule comming in so a try catch was use to filter out the data
+- The results led the team discover how data was transmitted when routes were protected and when they weren't protected.
+- The project gave me a great understanding how endpoints could be tested using Nodejs, Sequelize, and Postman.
+
+-Hustlers
+- JF 4.3
+- Is able to build, manage and deploy code into the relevant environment
+- one way this was demonstrated this poject was by using netlify and supabase
+- Some actions taken in this project came from testing the postgresql RLS policies in order to get funtions to work properly.
+- This project was built with the idea that communication could be built using memos.
+- The end goal of this project was to work together and have a application each user could log in and talk to.
+- JF 5.4
+- Understands and can apply structured techniques to problem solving, can debug code and can understand the structure of programmes to identify and resolve issues
+- There were several scenarios where problem solving played a big part when not having the policy correctly configured the data would not be effected leaving it unchanged
+- The results led the team discover how data was transmitted using (RLS)Row-Level Security.
+- The project gave me a great understanding how components and postgresql could be used in Reactjs.
 
 ## Overview of Apprenticeship
 - **Host Company**: Verizon
