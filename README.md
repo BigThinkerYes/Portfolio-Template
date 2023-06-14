@@ -4,6 +4,9 @@ This repository is a collection of some of my key learnings during my time with 
 ## The complete in depth detail of each project can be found in project1 and project2 folders
 ## Competencies:
 # Ada2.0 --- backend application using nodejs, Sequelize, sqlite3 and express
+- (Situation) This application was built to test Endpoints using Nodejs, Express and Postman and was created to gain knowledge about api endpoints using JWT
+- (Task) The overall structure of the application was designed around test cases that allows a user to add notes to a log which then is stored within a database using sqlite3.
+- (Action) I was tasked with creating base files and database as well as help with the api testing
 - JF 3.6
 - Can implement a RESTful API
 - one way this was demonstrated this poject was with | router.get("/:id", async (req, res, next) => { | which gets all messages based on there id
@@ -17,6 +20,8 @@ This repository is a collection of some of my key learnings during my time with 
 - The project gave me a great understanding how endpoints could be tested using Nodejs, Sequelize, and Postman.
 
 # Hustlers --- CRUD applications using reactjs and postgresql
+- (Action) I was tasked with creating base files and database configuration as well as help with the Login
+- (Result) here is the link to a deployed version of the supabase site https://calm-fairy-b68c30.netlify.app/
 - JF 4.3
 - Is able to build, manage and deploy code into the relevant environment
 - one way this was demonstrated this poject was by using netlify and supabase
