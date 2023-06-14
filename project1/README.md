@@ -1,10 +1,10 @@
 ## Project #1
 Give a high-level overview of the project purpose
-- (*Situation*) Describe the application and why you created this program
-- (*Task*) Describe the overall structure of your application and the design process prior to building the program
-- (*Action*) Explain the code you wrote to achieve your desired result
-- (*Result*) Showcase your final application with its functionality
-- Include relevant screenshots
+- (*Situation*) This application was built to test Endpoints using Nodejs, Express and Postman and was created to gain knowledge about api endpoints using JWT
+- (*Task*) The overall structure of the application was designed around test cases that allows a user to add notes to a log which then is stored within a database using sqlite3.
+- (*Action*) I was tasked with creating base files and database as well as help with the api testing
+- (*Result*)![image](https://github.com/BigThinkerYes/Portfolio-Template/assets/21373535/39e12c57-a44f-4941-9e69-409b965b9a78)
+
 
 ## Technologies
 - List all technologies and versions here
