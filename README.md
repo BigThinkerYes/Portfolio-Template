@@ -3,7 +3,7 @@
 This repository is a collection of some of my key learnings during my time with the Multiverse apprenticeship program at Verizon.
 ## The complete in depth detail of each project can be found in project1 and project2 folders
 ## Competencies:
-# Ada2.0
+# Ada2.0 --- backend application using nodejs, Sequelize, sqlite3 and express
 - JF 3.6
 - Can implement a RESTful API
 - one way this was demonstrated this poject was with | router.get("/:id", async (req, res, next) => { | which gets all messages based on there id
@@ -16,7 +16,7 @@ This repository is a collection of some of my key learnings during my time with 
 - The results led the team discover how data was transmitted when routes were protected and when they weren't protected.
 - The project gave me a great understanding how endpoints could be tested using Nodejs, Sequelize, and Postman.
 
--Hustlers
+# Hustlers --- CRUD applications using reactjs and postgresql
 - JF 4.3
 - Is able to build, manage and deploy code into the relevant environment
 - one way this was demonstrated this poject was by using netlify and supabase
