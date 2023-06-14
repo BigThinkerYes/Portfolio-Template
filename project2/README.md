@@ -1,4 +1,4 @@
-# learning
+# Project name is Hustlers
 ## requirements for project 2
 - must have supabase configured in server and for local testing -- https://supabase.com/
 - choose The table menu on the left and name it chatMessage and create a row called message
@@ -17,6 +17,9 @@
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## This project was designed to implement backend technology (postgresql) with frontend (reactJS) 
+- (*Situation*) This application was built to test deployment and the frontend uses JWT to authorize login
+- (*Task*) The overall structure of the application was designed to allow users to add notes to a log which then is stored within a database using postgresql.
+- (*Action*) I was tasked with creating base files and database configuration as well as help with the Login
+- (*Result*) here is the link to a deployed version of the supabase site https://calm-fairy-b68c30.netlify.app/
 
