@@ -1,6 +1,6 @@
 ## Project #1
 Give a high-level overview of the project purpose
-- note: refere to ReadMe inside ada2.0 for a complete build process of the application.
+- note: refer to ReadMe inside ada2.0 for a complete build process of the application.
 - (*Situation*) This application was built to test Endpoints using Nodejs, Express and Postman and was created to gain knowledge about api endpoints using JWT
 - (*Task*) The overall structure of the application was designed around test cases that allows a user to add notes to a log which then is stored within a database using sqlite3.
 - (*Action*) I was tasked with creating base files and database as well as help with the api testing
@@ -26,15 +26,15 @@ Give a high-level overview of the project purpose
 - The tools used for testing were Visual Studio Code and postman
 
 ## Competencies
-### JF XX.XX
-- List the full text of the job function first
-- Describe a situation where you demonstrated this job function.
-- Summarize the actions you took to accomplish the goal. 
-- Emphasize the results of this action for your team or your learning. 
-- Connect the competentcy to this project
+### JF 3.6
+- Can implement a RESTful API
+- one way this was demonstrated this poject was with | router.get("/:id", async (req, res, next) => { | which gets all messages based on there id
+- Some actions taken in this project came from testing the seedData file against api route to see if it pulled correct data   
+- This project was built with a team of 3 and we each learned how to communicate well while be in different circumstances that could have delayed the testing
+- The end goal of this project was to work together and have a funtional server application which went well. 
 
-### JF XX.XX
-- List the full text of the job function first
+### JF 5.4
+- Understands and is able to identify and create test scenarios
 - Describe a situation where you demonstrated  this job function.
 - Summarize the actions you took to accomplish the goal. 
 - Emphasize the results of this action for your team or your learning. 
