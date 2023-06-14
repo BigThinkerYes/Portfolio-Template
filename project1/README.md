@@ -1,5 +1,5 @@
 ## Project #1
-Give a high-level overview of the project purpose
+Give a high-level overview of the project purpose -- this project was built to 
 - note: refer to ReadMe inside ada2.0 for a complete build process of the application.
 - (*Situation*) This application was built to test Endpoints using Nodejs, Express and Postman and was created to gain knowledge about api endpoints using JWT
 - (*Task*) The overall structure of the application was designed around test cases that allows a user to add notes to a log which then is stored within a database using sqlite3.
@@ -35,7 +35,6 @@ Give a high-level overview of the project purpose
 
 ### JF 5.4
 - Understands and is able to identify and create test scenarios
-- Describe a situation where you demonstrated  this job function.
-- Summarize the actions you took to accomplish the goal. 
-- Emphasize the results of this action for your team or your learning. 
-- Connect the competency to this project
+- There were several test scenarios where we need to test the vaule comming in so a try catch was use to filter out the data 
+- The results led the team discover how data was transmitted when routes were protected and when they weren't protected. 
+- The project gave me a great understanding how endpoints could be tested using Nodejs, Sequelize, and Postman.
